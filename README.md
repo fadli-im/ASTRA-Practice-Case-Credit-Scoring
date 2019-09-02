@@ -1,9 +1,10 @@
 # Practice Case Credit Scoring
+
+## Features Description
+
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005. The dataset consists of 30000 observations and 18 features (with variable RISK as dependent variable). The aims of this project is to predict whether a client has a bad risk or good risk.
 
 Note: Beware of the distribution,the composision (whether the data is balanced or imbalanced), or the type of each variables.
-
-This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
 SEX: Gender (1=male, 2=female)
 
